@@ -1,15 +1,18 @@
-# Hi there 👋, I'm Christian!
+ <div align="center">
+  <h1> Hi there 👋, I'm Christian! 👋</h1>
+</div>
 
-Currently I am open to any opportunity especially in IT as a Web Developer and Graphic Designer.
+<div align="center">
+<h1> Currently I am open to any opportunity especially in IT as a Web Developer and Graphic Designer. </h1>
+</div>
 
----
 
-### Tools & Technologies
+### Tech Stack
 
-#### 💻 Development & Languages
+
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,bootstrap,tailwind" />
 
-#### 🎨 Design & Creative Tools
+#### Creative Stack
 <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,ae" />
 
 ---

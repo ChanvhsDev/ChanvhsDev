@@ -21,8 +21,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChanvhsDev&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanvhsDev&layout=compact&theme=transparent" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChanvhsDev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&custom_title=Chan%27s%20GitHub%20Stats" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanvhsDev&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 

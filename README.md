@@ -9,7 +9,7 @@
 
 ### Tools
 <div align="center">
- <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,bootstrap,tailwind" /> 
+ <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,bootstrap,tailwind,typescript" /> 
 </div> 
 
 
